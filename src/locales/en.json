@@ -1,0 +1,215 @@
+{
+	"header_menu_about": "About",
+	"header_menu_offers": "Offers",
+	"header_menu_solutions": "Solutions",
+	"header_menu_contact": "Contact",
+
+	"hero_title": "Tech Event Success Kit",
+	"hero_description": "Maximize your impact at tech events 2025-2026",
+	"hero_cta_discover": "Discover Our Offers",
+	"hero_cta_demo": "Request a Demo",
+
+	"about_title": "Digital Merchandising Excellence",
+	"about_description": "Over 15 years of expertise in visual commerce, logistics and corporate promotional products",
+	"about_service_excellence_title": "Full Service",
+	"about_service_excellence_items": [
+		"Over 10,000 products available",
+		"Advanced online customization",
+		"Dedicated technical support"
+	],
+	"about_innovation_title": "Digital Innovation",
+	"about_innovation_items": [
+		"Real-time 3D configurator",
+		"Personalized e-commerce",
+		"Advanced analytics"
+	],
+	"about_sustainability_title": "Sustainable Commitment",
+	"about_sustainability_items": [
+		"Eco-certified products",
+		"On-demand production",
+		"Responsible packaging"
+	],
+	"about_fast_delivery": "24-48h delivery across France",
+
+	"why_choose_us_title": "Why Choose YourMerchandising?",
+	"why_choose_us_quality_title": "Quality Products",
+	"why_choose_us_quality_description": "We carefully select durable, high-quality products, with over 10,000 references available for your brand.",
+	"why_choose_us_service_title": "Tailored Service",
+	"why_choose_us_service_description": "Full support from our team, from the creative phase to delivery, with personalized assistance.",
+	"why_choose_us_production_title": "On-Demand Production",
+	"why_choose_us_production_description": "Printing and shipping in 24h, delivery in 48h. No minimum stock required, zero unsold risk.",
+	"why_choose_us_analytics_title": "Advanced Analytics",
+	"why_choose_us_analytics_description": "Real-time sales tracking and detailed reporting with our integrated Microsoft Power BI technology.",
+	"why_choose_us_experience": "Over 15 years of expertise at the service of your brand",
+	"why_choose_us_certifications_text": "Our commitment to sustainability and excellence is recognized by international organizations. We are proud to maintain the highest standards of quality and environmental responsibility through our certifications, ensuring our clients receive environmentally friendly products and services that comply with international standards.",
+
+	"offers_section_title": "Our Event Solutions",
+	"offers_section_description": "Choose the ideal package to maximize your impact at tech events",
+	"essential_pack_title": "Essential Pack",
+	"essential_pack_description": "Identify your team and visitors",
+	"essential_pack_price": "2,990€",
+	"essential_pack_features": [
+		"50 customized NFC badges",
+		"100 eco-design power banks",
+		"100 premium notebooks",
+		"50 tech staff t-shirts",
+		"Real-time analytics",
+		"Event support"
+	],
+	"essential_pack_button": "Discover the Essential Pack",
+
+	"premium_pack_recommend": "RECOMMENDED",
+	"premium_pack_title": "Premium Pack",
+	"premium_pack_description": "Complete solution with booth equipment",
+	"premium_pack_price": "4,990€",
+	"premium_pack_features": [
+		"Full Essential Pack",
+		"Modular booth structure",
+		"Interactive LED screen",
+		"Smart lighting system",
+		"Connected reception counter",
+		"Installation and dismantling"
+	],
+	"premium_pack_button": "Discover the Premium Pack",
+
+	"digital_plus_pack_title": "Digital Plus Pack",
+	"digital_plus_pack_description": "Complete digital experience",
+	"digital_plus_pack_price": "7,990€",
+	"digital_plus_pack_features": [
+		"Full Premium Pack",
+		"Customized event page",
+		"Integrated booking system",
+		"Dynamic QR codes",
+		"Advanced analytics dashboard",
+		"Digital marketing support"
+	],
+	"digital_plus_pack_button": "Discover the Digital Plus Pack",
+
+	"startup_pack_section_title": "A Solution for Every Need",
+	"startup_pack_section_description": "Organizing a smaller event or looking for a simpler solution? Discover our Startup Pack, designed for small events and occasional needs.",
+
+	"startup_pack_title": "Startup Pack",
+	"startup_pack_description": "Flexible solution for small events",
+	"startup_pack_price": "From 990€",
+	"startup_pack_features": [
+		"10-25 people",
+		"Basic customization included",
+		"Essential products selected"
+	],
+	"startup_pack_ideal_title": "Ideal for:",
+	"startup_pack_ideal_for": [
+		"Small tech conferences",
+		"Meetups and workshops",
+		"Occasional events"
+	],
+	"startup_pack_button": "Discover the Startup Pack",
+
+	"solutions_title": "A Complete Solution for Your Event",
+	"solutions_description": "We understand the importance of every detail in organizing your tech events. That's why we've developed a comprehensive approach that allows you to focus on what matters most: making your event a success.",
+	"solutions_all_in_one_title": "All-In-One Solution:",
+	"solutions_all_in_one": "A one-stop-shop for all your branding needs, ensuring your event is perfectly equipped.",
+	"solutions_customizable_kits_title": "Customizable Kits:",
+	"solutions_customizable_kits": "Tailor-made kits adapted to your company's needs, including welcome packs, branded goodies and more.",
+	"solutions_hassle_free_title": "Worry-Free Experience:",
+	"solutions_hassle_free": "Let us handle the logistics so you can focus on making your event a success.",
+
+	"cta_title": "Ready to Transform Your Next Event?",
+	"cta_description": "Let us guide you in creating a memorable experience",
+	"cta_button_quote": "Request a Quote",
+	"cta_button_expert": "Speak to an Expert",
+
+	"stats_events": "Successful Events",
+	"stats_products": "Products Available",
+	"stats_delivery": "Delivery",
+	"stats_experience": "Years of Experience",
+
+	"testimonials_title": "POLIMI Graduate School of Management",
+	"testimonials_subtitle": "Success Story",
+	"testimonials_quote": "YourMerchandising allowed us to transform our institutional merchandising approach with a comprehensive and innovative solution. The platform is intuitive and the service is excellent.",
+	"testimonials_author": "Marketing Director",
+	"testimonials_company": "POLIMI Graduate School of Management",
+	"testimonials_features": [
+		"Personalized e-commerce platform",
+		"Complete order and delivery management",
+		"Real-time analytics and reporting"
+	],
+	"testimonials_more": [
+		{
+			"quote": "A complete solution that transformed our approach to event merchandising.",
+			"author": "Marketing Director",
+			"company": "ACF Fiorentina"
+		},
+		{
+			"quote": "Exceptional customer service and a truly intuitive platform. Exactly what we needed.",
+			"author": "Project Manager",
+			"company": "Giostyle & Ordinett"
+		},
+		{
+			"quote": "The quality of the products and the speed of delivery really impressed us.",
+			"author": "Communications Manager",
+			"company": "Assolombarda"
+		}
+	],
+	"faq_title": "Frequently Asked Questions",
+	"faq_delivery": {
+		"question": "What is the delivery time?",
+		"answer": "We deliver in 24-48h across metropolitan France."
+	},
+	"faq_minimum_order": {
+		"question": "Is there a minimum order quantity?",
+		"answer": "No, we adapt to your needs, regardless of the size of your order."
+	},
+	"faq_samples": {
+		"question": "Do you offer samples?",
+		"answer": "We will be happy to provide you with samples, even for small quantities."
+	},
+	"contact_title": "Contact us",
+	"contact_description": "Transform your next tech event with innovative merchandising solutions",
+	"contact_info_title": "Our Contact Info",
+	"contact_phone_label": "Phone",
+	"contact_phone_number": "+33 (0)6 06 68 67 46",
+	"contact_phone_hours": "Mon-Fri, 9am-6pm",
+	"contact_email_label": "Email",
+	"contact_email_address": "contact@yminternational.pro",
+	"contact_email_response_time": "Response within 24h",
+	"contact_location": "Sophia Antipolis, France",
+
+	"footer_company": "A brand of Upsystems S.p.A.",
+	"footer_services_title": "Our Services",
+	"footer_services": [
+		"Event Merchandising",
+		"Customization",
+		"E-commerce",
+		"Digital Solutions"
+	],
+	"footer_legal_title": "Legal",
+	"footer_legal": ["Terms of Service", "Privacy Policy", "GTC", "Cookies"],
+	"footer_copyright": "© 2024 YourMerchandising. All rights reserved.",
+
+	"form": {
+		"name": "Name",
+		"name_placeholder": "Your name",
+		"company": "Company",
+		"company_placeholder": "Your company (optional)",
+		"email": "Email",
+		"email_placeholder": "your@email.com",
+		"event": "Event Type",
+		"event_options_default": "Select an event type (optional)",
+		"event_options_conference": "Tech Conference",
+		"event_options_exhibition": "Professional Exhibition",
+		"event_options_hackathon": "Hackathon",
+		"event_options_other": "Other",
+		"message": "Message",
+		"message_placeholder": "Tell us about your project...",
+		"required_fields": "Required fields",
+		"submit": "Send Request",
+		"submitting": "Sending...",
+		"success_title": "Message Sent!",
+		"success_message": "Thank you for your message! We'll contact you as soon as possible.",
+		"error_title": "Error",
+		"error_message": "An error occurred while sending your message. Please try again or contact us directly via email.",
+		"error_submit": "Form submission error. Please try again.",
+		"error_console": "Form submission error",
+		"click_anywhere_close": "Click anywhere to close"
+	}
+}
