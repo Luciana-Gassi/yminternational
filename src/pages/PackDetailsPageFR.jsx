@@ -2,6 +2,7 @@ import PackEssential from "../components/packs/fr/PackEssential";
 import PackPremium from "../components/packs/fr/PackPremium";
 import PackDigital from "../components/packs/fr/PackDigital";
 import PackStartup from "../components/packs/fr/PackStartup";
+import { Link } from "react-router-dom";
 
 export default function PackDetailsPageFR() {
 	return (
@@ -10,11 +11,13 @@ export default function PackDetailsPageFR() {
 				<div className="container-ym py-4">
 					<div className="flex items-center justify-between">
 						<div className="flex items-center">
-							<img
-								src="/yminternational/images/ym-fullBR.svg"
-								alt="YourMerchandising Logo"
-								className="h-auto w-24"
-							/>
+							<Link to="/" onClick={() => window.scrollTo(0, 0)}>
+								<img
+									src="/yminternational/images/ym-fullBR.svg"
+									alt="YourMerchandising Logo"
+									className="h-auto w-24"
+								/>
+							</Link>
 						</div>
 						<nav className="hidden md:flex items-center space-x-8">
 							<a

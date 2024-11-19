@@ -13,7 +13,7 @@ function CGV() {
 				<div className="container-ym py-4">
 					<div className="flex items-center justify-between">
 						<div className="flex items-center">
-							<Link to="/">
+							<Link to="/" onClick={() => window.scrollTo(0, 0)}>
 								<img
 									src="/ym-fullBR.svg"
 									alt="YourMerchandising Logo"
@@ -24,6 +24,7 @@ function CGV() {
 						<nav className="hidden md:flex items-center space-x-8">
 							<Link
 								to="/"
+								onClick={() => window.scrollTo(0, 0)}
 								className="text-ym-blue hover:text-ym-burgundy transition-colors"
 							>
 								Retour

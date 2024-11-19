@@ -4,9 +4,19 @@ import { useEffect } from "react";
 const PackDigital = () => {
 	const navigate = useNavigate();
 	useEffect(() => {
-		if (window.location.hash === "#pack-digital") {
-			document.getElementById("pack-digital").scrollIntoView();
-		}
+		const timeoutId = setTimeout(() => {
+			// Estrai l'ultimo hash
+			const hash = window.location.hash.split("#").pop();
+
+			if (hash === "pack-digital") {
+				const section = document.getElementById("pack-digital");
+				if (section) {
+					section.scrollIntoView({ behavior: "smooth" });
+				}
+			}
+		}, 100);
+
+		return () => clearTimeout(timeoutId);
 	}, []);
 	const handleContactClick = () => {
 		navigate("/#contact");

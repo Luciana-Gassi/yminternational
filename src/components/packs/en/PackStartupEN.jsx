@@ -3,9 +3,19 @@ import { useEffect } from "react";
 const PackStartup = () => {
 	const navigate = useNavigate();
 	useEffect(() => {
-		if (window.location.hash === "#pack-startup") {
-			document.getElementById("pack-startup").scrollIntoView();
-		}
+		const timeoutId = setTimeout(() => {
+			// Estrai l'ultimo hash
+			const hash = window.location.hash.split("#").pop();
+
+			if (hash === "pack-startup") {
+				const section = document.getElementById("pack-startup");
+				if (section) {
+					section.scrollIntoView({ behavior: "smooth" });
+				}
+			}
+		}, 100);
+
+		return () => clearTimeout(timeoutId);
 	}, []);
 	const handleContactClick = () => {
 		navigate("/#contact");

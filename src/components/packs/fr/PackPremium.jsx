@@ -4,9 +4,19 @@ const PackPremium = () => {
 	const navigate = useNavigate();
 
 	useEffect(() => {
-		if (window.location.hash === "#pack-premium") {
-			document.getElementById("pack-premium").scrollIntoView();
-		}
+		const timeoutId = setTimeout(() => {
+			// Estrai l'ultimo hash
+			const hash = window.location.hash.split("#").pop();
+
+			if (hash === "pack-premium") {
+				const section = document.getElementById("pack-premium");
+				if (section) {
+					section.scrollIntoView({ behavior: "smooth" });
+				}
+			}
+		}, 100);
+
+		return () => clearTimeout(timeoutId);
 	}, []);
 
 	const handleContactClick = () => {

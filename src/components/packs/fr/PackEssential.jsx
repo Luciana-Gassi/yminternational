@@ -2,11 +2,22 @@ import { useNavigate } from "react-router-dom";
 import { useEffect } from "react";
 const PackEssential = () => {
 	const navigate = useNavigate();
-	useEffect(() => {
-		if (window.location.hash === "#pack-essential") {
-			document.getElementById("pack-essential").scrollIntoView();
-		}
-	}, []);
+
+		useEffect(() => {
+			const timeoutId = setTimeout(() => {
+				// Estrai l'ultimo hash
+				const hash = window.location.hash.split("#").pop();
+
+				if (hash === "pack-essential") {
+					const section = document.getElementById("pack-essential");
+					if (section) {
+						section.scrollIntoView({ behavior: "smooth" });
+					}
+				}
+			}, 100);
+
+			return () => clearTimeout(timeoutId);
+		}, []);
 	const handleContactClick = () => {
 		navigate("/#contact");
 		setTimeout(() => {
