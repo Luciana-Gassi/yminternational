@@ -1659,7 +1659,14 @@ function TechEventLanding() {
 							<h4 className="font-semibold mb-4">Contact</h4>
 							<ul className="space-y-2 text-white/80">
 								<li>+33 (0)6 06 68 67 46</li>
-								<li>contact@yminternational.pro</li>
+								<li>
+									<a
+										href="mailto:contact@yminternational.pro"
+										className="hover:text-white transition-colors"
+									>
+										contact@yminternational.pro
+									</a>
+								</li>
 								<li>Sophia Antipolis, France</li>
 							</ul>
 						</div>
