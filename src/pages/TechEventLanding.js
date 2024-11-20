@@ -1619,6 +1619,7 @@ function TechEventLanding() {
 								<li>
 									<Link
 										to="/terms"
+										onClick={() => window.scrollTo(0, 0)}
 										className="hover:text-white transition-colors"
 									>
 										{t("footer_legal.0")}
@@ -1627,6 +1628,7 @@ function TechEventLanding() {
 								<li>
 									<Link
 										to="/privacy"
+										onClick={() => window.scrollTo(0, 0)}
 										className="hover:text-white transition-colors"
 									>
 										{t("footer_legal.1")}
@@ -1635,6 +1637,7 @@ function TechEventLanding() {
 								<li>
 									<Link
 										to="/cgv"
+										onClick={() => window.scrollTo(0, 0)}
 										className="hover:text-white transition-colors"
 									>
 										{t("footer_legal.2")}
@@ -1643,6 +1646,7 @@ function TechEventLanding() {
 								<li>
 									<Link
 										to="/cookies"
+										onClick={() => window.scrollTo(0, 0)}
 										className="hover:text-white transition-colors"
 									>
 										{t("footer_legal.3")}
