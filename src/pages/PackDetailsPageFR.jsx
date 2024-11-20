@@ -20,12 +20,13 @@ export default function PackDetailsPageFR() {
 							</Link>
 						</div>
 						<nav className="hidden md:flex items-center space-x-8">
-							<a
-								href="/"
+							<Link
+								to="/"
+								onClick={() => window.scrollTo(0, 0)} // Scrolla all'inizio della pagina
 								className="text-ym-blue hover:text-ym-burgundy transition-colors"
 							>
 								Retour
-							</a>
+							</Link>
 						</nav>
 					</div>
 				</div>
