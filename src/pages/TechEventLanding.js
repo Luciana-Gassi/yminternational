@@ -1556,8 +1556,17 @@ function TechEventLanding() {
 										className="h-16 w-auto"
 									/>
 								</Link>
+								<div>
+									<a
+										href="https://upsystems.it/"
+										target="_blank"
+										rel="noopener noreferrer"
+										className="text-white/80 hover:text-white transition-colors"
+									>
+										{t("footer_company")}
+									</a>
+								</div>
 							</div>
-							<p className="text-white/80">{t("footer_company")}</p>
 						</div>
 
 						<div>
@@ -1565,10 +1574,42 @@ function TechEventLanding() {
 								{t("footer_services_title")}
 							</h4>
 							<ul className="space-y-2 text-white/80">
-								<li>{t("footer_services.0")}</li>
-								<li>{t("footer_services.1")}</li>
-								<li>{t("footer_services.2")}</li>
-								<li>{t("footer_services.3")}</li>
+								<li>
+									<Link
+										to="/merchandising"
+										onClick={() => window.scrollTo(0, 0)}
+										className="hover:text-white transition-colors"
+									>
+										{t("footer_services.0")}
+									</Link>
+								</li>
+								<li>
+									<Link
+										to="/personnalisation"
+										onClick={() => window.scrollTo(0, 0)}
+										className="hover:text-white transition-colors"
+									>
+										{t("footer_services.1")}
+									</Link>
+								</li>
+								<li>
+									<Link
+										to="/ecommerce"
+										onClick={() => window.scrollTo(0, 0)}
+										className="hover:text-white transition-colors"
+									>
+										{t("footer_services.2")}
+									</Link>
+								</li>
+								<li>
+									<Link
+										to="/solutions"
+										onClick={() => window.scrollTo(0, 0)}
+										className="hover:text-white transition-colors"
+									>
+										{t("footer_services.3")}
+									</Link>
+								</li>
 							</ul>
 						</div>
 
