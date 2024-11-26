@@ -178,7 +178,7 @@ function Cookies() {
 											Conformément à la réglementation en vigueur, vous disposez
 											d'un droit d'accès, de rectification et de suppression des
 											données collectées via les cookies. Pour exercer ces
-											droits, contactez-nous à : privacy@yourmerchandising.com
+											droits, contactez-nous à : contact@yminternational.pro
 										</p>
 									</div>
 								</div>

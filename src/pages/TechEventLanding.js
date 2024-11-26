@@ -1,4 +1,4 @@
-// PARTE 1: Imports e inizio del componente fino alla fine della Hero Section
+// PARTE 1: Imports
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Link } from "react-router-dom";
