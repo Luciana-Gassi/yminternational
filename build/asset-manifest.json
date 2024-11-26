@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.4c49222c.css",
-    "main.js": "./static/js/main.e4df9840.js",
+    "main.js": "./static/js/main.be018d88.js",
     "static/media/proximanova_light.otf": "./static/media/proximanova_light.9d69a5449e101ad71e3d.otf",
     "static/media/Controller_Four.otf": "./static/media/Controller_Four.676003fab0132b8d2dd1.otf",
     "static/media/Orbitron-Bold.ttf": "./static/media/Orbitron-Bold.a0309d1fe75d16b6f13a.ttf",
     "index.html": "./index.html",
     "main.4c49222c.css.map": "./static/css/main.4c49222c.css.map",
-    "main.e4df9840.js.map": "./static/js/main.e4df9840.js.map"
+    "main.be018d88.js.map": "./static/js/main.be018d88.js.map"
   },
   "entrypoints": [
     "static/css/main.4c49222c.css",
-    "static/js/main.e4df9840.js"
+    "static/js/main.be018d88.js"
   ]
 }

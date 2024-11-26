@@ -1268,7 +1268,7 @@ function TechEventLanding() {
 								{/* Image Side */}
 								<div className="relative h-64 md:h-auto">
 									<img
-										src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=800&q=80"
+										src="images/polimi_img.jpg"
 										alt="POLIMI Case Study"
 										className="w-full h-full object-cover"
 									/>
