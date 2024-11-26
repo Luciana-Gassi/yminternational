@@ -80,7 +80,7 @@ function TechEventLanding() {
 								}}
 							>
 								<img
-									src="/yminternational/images/logo-fullBluRed-rembg.png"
+									src="images/logo-fullBluRed-rembg.png"
 									alt="YourMerchandising Logo"
 									className="h-20 w-27"
 								/>
@@ -150,7 +150,7 @@ function TechEventLanding() {
 										}`}
 									>
 										<img
-											src="/yminternational/images/en-flag.png"
+											src="images/en-flag.png"
 											alt="English"
 											className={`w-5 h-5 transition-opacity duration-200 ${
 												i18n.language === "en"
@@ -181,7 +181,7 @@ function TechEventLanding() {
 										}`}
 									>
 										<img
-											src="/yminternational/images/fr-flag.png"
+											src="images/fr-flag.png"
 											alt="Français"
 											className={`w-5 h-5 transition-opacity duration-200 ${
 												i18n.language === "fr"
@@ -644,7 +644,7 @@ function TechEventLanding() {
 							<div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-4xl mx-auto px-4">
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/Gots_Cert.jpg"
+										src="images/Gots_Cert.jpg"
 										alt="GOTS Certification"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -652,7 +652,7 @@ function TechEventLanding() {
 								</div>
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/FSC_Cert.jpg"
+										src="images/FSC_Cert.jpg"
 										alt="FSC Certification"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -660,7 +660,7 @@ function TechEventLanding() {
 								</div>
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/Ecovadis_Cert.jpg"
+										src="images/Ecovadis_Cert.jpg"
 										alt="Ecovadis Certification"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -670,7 +670,7 @@ function TechEventLanding() {
 								</div>
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/Grs_Cert.jpg"
+										src="images/Grs_Cert.jpg"
 										alt="Global Recycled Standard"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -684,7 +684,7 @@ function TechEventLanding() {
 							<div className="grid grid-cols-2 md:grid-cols-3 gap-4 max-w-3xl mx-auto px-4 mt-4">
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/UNglobal_Cert.jpg"
+										src="images/UNglobal_Cert.jpg"
 										alt="UN Global Compact"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -694,7 +694,7 @@ function TechEventLanding() {
 								</div>
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/Ocean_Cert.jpg"
+										src="images/Ocean_Cert.jpg"
 										alt="Ocean Bound"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -704,7 +704,7 @@ function TechEventLanding() {
 								</div>
 								<div className="flex flex-col items-center justify-center p-2">
 									<img
-										src="/yminternational/images/Smeta_Cert.jpg"
+										src="images/Smeta_Cert.jpg"
 										alt="SMETA"
 										className="h-16 w-auto object-contain transition-all duration-300"
 									/>
@@ -1279,7 +1279,7 @@ function TechEventLanding() {
 								<div className="p-8 md:p-12">
 									<div className="flex items-center gap-4 mb-6">
 										<img
-											src="/yminternational/images/polimilogo.png"
+											src="images/polimilogo.png"
 											alt="POLIMI Logo"
 											className="h-4 w-auto"
 										/>
@@ -1551,7 +1551,7 @@ function TechEventLanding() {
 									}}
 								>
 									<img
-										src="/yminternational/images/ym-fullWH.svg"
+										src="images/ym-fullWH.svg"
 										alt="YourMerchandising Logo"
 										className="h-16 w-auto"
 									/>

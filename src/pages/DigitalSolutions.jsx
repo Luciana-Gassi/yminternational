@@ -12,7 +12,7 @@ const DigitalSolutions = () => {
 						<div className="flex items-center">
 							<Link to="/" onClick={() => window.scrollTo(0, 0)}>
 								<img
-									src="/yminternational/images/ym-fullBR.svg"
+									src="images/ym-fullBR.svg"
 									alt="YourMerchandising Logo"
 									className="h-auto w-24"
 								/>
