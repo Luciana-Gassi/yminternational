@@ -13,7 +13,7 @@ export default function PackDetailsPageFR() {
 						<div className="flex items-center">
 							<Link to="/" onClick={() => window.scrollTo(0, 0)}>
 								<img
-									src="images/logo-fullBluRed-rembg.svg"
+									src="images/logo-fullBluRed-rembg.png"
 									alt="YourMerchandising Logo"
 									className="h-auto w-24"
 								/>
