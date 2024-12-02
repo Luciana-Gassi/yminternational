@@ -14,7 +14,7 @@ function TermsAndConditions() {
 						<div className="flex items-center">
 							<Link to="/" onClick={() => window.scrollTo(0, 0)}>
 								<img
-									src="images/ym-fullBR.svg"
+									src="images/logo-fullBluRed-rembg.svg"
 									alt="YourMerchandising Logo"
 									className="h-auto w-24"
 								/>
